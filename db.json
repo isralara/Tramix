@@ -1,0 +1,374 @@
+{
+  "areas": [
+      {
+          "ID_A": 1,
+          "Nombre": "Desarrollo Urbano"
+                   
+      },
+      {
+          "ID_A": 2,
+          "Nombre": "Ecologia"         
+      },
+      {
+          "ID_A": 3,
+          "Nombre": "Protección Civil"         
+      },
+      {
+          "ID_A": 4,
+          "Nombre": "Organismos de Agua Potable"         
+      },
+      {
+          "ID_A": 5,
+          "Nombre": "Normatividad Comemrcial"         
+      }
+  ],
+  "tramites_DB": [
+    {
+        "id":1,
+        "nombre": "Licencia de Uso de suelo para el Sistema de Apertura rápida Empresarial",
+        "descripcion": "Documento que autoriza el aprovechamiento con fines urbanos o la edificación en un predio localizado en el territorio del Municipio",
+        "fisica": "●Documento que autoriza el aprovechamiento con fines urbanos o la edificación en un predio localizado en el territorio del Municipio ●Clave Catastral (Boleta prediaJ vigente)", 
+        "moral": ""
+    },
+    {
+        "id":2,
+        "nombre": "Licencias de Construcción para Demolición total, Demolición parcial",
+        "descripcion": "Obtención de la Licencia de Construcción para Demolición Total o Demolición Parcial"
+        
+    },
+    {
+        "id":3,
+        "nombre": "Licencias de Construcción (Prorroga a Licencia)",
+        "descripcion": "LICENCIA DE CONSTRUCCIÓN (PRORROGA A LICENCIA) "
+        
+    },
+    {
+        "id":4,
+        "nombre": "Licencias de Construcción (Obra nueva)",
+        "descripcion": "OBTENCION DE LICENCIA DE CONSTRUCCIÓN PARA OBRA NUEVA"
+        
+    },
+    {
+        "id":5,
+        "nombre": "Licencias de Construcción (Modificación de una obra existente y Modificación de Proyecto Autorizado)",
+        "descripcion": "OBTENCIÓN DE LICENCIA DE CONSTRUCCIÓN PARA MODIFICACIÓN DE OBRA EXISTENTE, MODIFICACIÓN DEL PROYECTO AUTORIZADO"
+        
+    },
+    {
+        "id":6,
+        "nombre": "Licencias de Construcción para excavación y relleno",
+        "descripcion": "OBTECION DE LICENCIA DE CONSTRUCCIÓN PARA, DEMOLICION TOTAL, DEMOLICION PARCIAL "
+        
+    },
+    {
+        "id":7,
+        "nombre": "Licencias de Construcción obra nueva (Obtención de licencia de construcción para reparación que afecta estructura",
+        "descripcion": "OBTENCIÓN DE LICENCIA DE CONSTRUCCIÓN PARA REPARACIÓN QUE AFECTA ESTRUCTURA"
+        
+    },
+    {
+        "id":8,
+        "nombre": "Licencia de Construcción Obra nueva (Obtención de licencia de construcción para reparación que no afecta estructura",
+        "descripcion": "Obtención de licencia de construcción para reparación que no afecta estructura"
+        
+    },
+    {
+        "id":9,
+        "nombre": "Licencias de Construcción constancia de término de obra total o parcial y Constancia de suspensión de obra",
+        "descripcion": "OBTENCIÓN DE LICENCIA DE CONSTRUCCIÓN PARA CONSTANCIA DE TÉRMINO DE OBRA TOTAL O PARCIAL Y CONSTANCIA DE SUSPENSIÓN DE OBRA"
+        
+    },
+    {
+        "id":10,
+        "nombre": "Licencias de Construcción Barda",
+        "descripcion": "OBTECION DE LICENCIA DE CONSTRUCCIÓN PARA BARDA "
+        
+    },
+    {
+        "id":11,
+        "nombre": "Licencia de Construcción (Ampliación)",
+        "descripcion": "OBTENCIÓN DE LICENCIA DE CONSTRUCCIÓN PARA AMPLIACIÓN DE UNA OBRA EXISTENTE"
+        
+    },
+    {
+        "id":12,
+        "nombre": "Licencia Municipal de Anuncios",
+        "descripcion": "OBTENCIÓN DE LICENCIA DE CONSTRUCCIÓN PARA AMPLIACIÓN DE UNA OBRA EXISTENTE"
+        
+    },
+    {
+        "id":13,
+        "nombre": "Autorización para la Instalación de señalamiento indicativo de establecimientos",
+        "descripcion": "DOCUMENTO QUE TIENE POR OBJETO SUJETAR CUALQUIER ANUNCIO PUBLICITARIO Y/O DENOMINATIVO EN UNA UBICACIÓN"
+        
+    },
+    {
+        "id":14,
+        "nombre": "Autorización para la factibilidad técnica para la Instalación de casetas de sitios de taxis en la vía Pública",
+        "descripcion": "DOCUMENTO QUE TIENE POR OBJETO LA INSTALACIÓN DE CASETAS DE SITIOS DE TAXIS EN LA VÍA PÚBLICA, EN LA INFRAESTRUCTURA VIAL A CARGO DEL MUNICIPIO DE ACUERDO A LA NORMATIVIDAD"
+        
+    },
+    {
+        "id":15,
+        "nombre": "Autorización para llevar a cabo el mantenimiento y cambio de Publicidad en Mobiliario Urbano",
+        "descripcion": "\"DOCUMENTO QUE TIENE POR OBJETO LA INSTALACION DE MOBILIARIO URBANO CON PUBLICIDAD EN LA VIA PUBLICA EN LA "
+        
+    },
+    {
+        "id":16,
+        "nombre": "Autorización para la ocupación de estacionamiento en la Vía Publica",
+        "descripcion": "\"DOCUMENTO QUE TIENE POR OBJETO LA OCUPACIÓN DE LA VIA PUBLICA EN LA INFRAESTRUCTURA VIAL A CARGO DEL MUNICIPIO DE "
+        
+    },
+    {
+        "id":17,
+        "nombre": "Autorización para reparación de banquetas hecha por particulares en la vía Pública",
+        "descripcion": "DOCUMENTO QUE TIENE POR OBJETO LA AUTORIZACIÓN DE REPARACIÓN Y/O MODIFICACIÓN DE BANQUETAS EN LA VÍA PÚBLICA HECHA POR PARTICULARES"
+        
+    },
+    {
+        "id":18,
+        "nombre": "Autorización para Volanteo, Perifoneo y Degustación",
+        "descripcion": "DOCUMENTO QUE TIENE POR OBJETO LA AUTORIZACIÓN PARA LA REALIZACIÓN DE VOLANTEO, PERJFONEO Y DEGUSTACIÓN"
+        
+    },
+    {
+        "id":19,
+        "nombre": "Autorización de estacionamiento de Vehículos en la Vía Pública y lugares de uso Común",
+        "descripcion": "DOCUMENTO QUE TIENE POR OBJETO LA AUTORIZACIÓN DE ESTACIONAMIENTO DE VEHÍCULOS EN LA VÍA PÚBLICA Y LUGARES DE USO COMÚN PARA LA REALIZACIÓN DE MANIOBRAS DE CARGA Y DESCARGA"
+        
+    }
+    ],
+    "tramites_ECO": [
+        {
+            "nombre": "Permiso de Poda, Derribo o Trasplante",
+            "descripcion": "Consiste en un instrumento administrativo municipal que sirve parta tener un control en el mantenimiento del arbolado para prevenir las podas y los derribos clandestinos para con ello se evite daño a estructuras de los predios construidos, banquetas, bardas perimetrales, "
+   
+        },
+        {
+            "nombre": "Licencia de Emisiones Contaminantes a la Atmósfera de Fuentes Fijas",
+            "descripcion": "CONSISTE EN LA EMISIÓN DE DOCUMENTO DE CARÁCTER ADMINISTRATIVO DE POLÍTICA PÚBLICA MUNICIPAL QUE CONTIENE UN NÚMERO DE REGISTRO PARA REGULAR LOS LÍMITES DE LOS CONTAMINANTES DE LOS EQUIPOS DE COMBUSTIÓN TODAS AQUELLAS UNIDADES ECONÓMICAS O ESTABLECIMIENTO COMERCIAL O ESTABLECIMIENTO DE SERVICIO DE FUENTES FIJAS"
+   
+        },
+        {
+            "nombre": "Licencia Ambiental Municipal",
+            "descripcion": "Consiste en la emisión de un instrumento.administrativo de la política pública municipal que contiene un número de registro para regular todas aquellas unidades económicas ya sea un establecimiento comercial, de servicio o industrial."
+   
+        },
+        {
+            "nombre": "",
+            "descripcion": null
+   
+        },
+        {
+            "nombre": "",
+            "descripcion": null
+   
+        }
+    ],
+    "tramites_PC": [
+        {
+            "nombre": "Dictamen de Viabilidad (Antes conocido como dictamen de Condiciones de Seguridad)",
+            "descripcion": "TRAMITE A TRAVÉS DEL CUAL SE SOLICITA LA EXPEDICION DEL DICTAMEN PARA UNIDADES ECONÓMICAS DE BAJO RIESGO QUE SU GIRO NO SEA RELACIONADO A LA VENTA DE BEBIDAS ALCOHOLICAS ANTES DENOMINADO DICTAMEN DE CONDICIONES DE SEGURIDAD"
+   
+        },
+        {
+            "nombre": "Dictamen de Protección civil de Bajo Riesgo antes denominado Dictamen de Viabilidad",
+            "descripcion": "TRÁMITE A TRAVÉS DEL CUAL SE SOLICITA EL DICTAMEN PARA UNIDADES ECONOMICAS DE BAJO RIESGO CON VENTA DE BEBIDAS ALCOHOLICAS AL COPEO O EN BOTELLA CERRADA, ANTES CONOCIDO COMUNMENTE COMO DICTAMEN DE VIABILIDAD"
+
+        },
+        {
+            "nombre": "Dictamen de Riesgo",
+            "descripcion": "TRÁMITE A TRAVÉS DEL CUAL SE EMITE LA OPINION TECNICA RESPECTO DE ALGUN POSIBLE RIESGO GENERADO O QUE SE PUDIERA GENERAR POR UN FENOMENO PERTURBADOR, TANTO EN BIENES PUBLICOS COMO PRIVADOS"
+   
+        },
+        {
+            "nombre": "Certificado de conformidad, Seguridad y Ubicación para actividades relacionadas con la Fabricación, Comercio, Importación, Exportación, y actividades conexas referentes a las Armas, Municiones, Artificios, Pólvoras, Explosivos y Sustancias Químicas",
+            "descripcion": "TRÁMITE A TRAVÉS DEL CUAL SE SOLICITA LA EXPEDICIÓN DE LA CONFORMIDAD RESPECTO A LA UBICACIÓN DEL LUGAR, PARA EL CONSUMO, ALMACENAMIENTO, COMERCIALIZACION Y FABRICACIÓN DE  SEGURIDAD Y "
+   
+        },
+        {
+            "nombre": "Revisión y en su caso Aprobación del Plan de Contingencia para la colaboración de los Dispositivos de Seguridad y Resguardo",
+            "descripcion": "TRÁMITE A TRAVÉS DEL CUAL SE SOLICITA LA OPINION TECNICA Y JURIDICA PARA LA COLOCACION DE LOS DISPOSITIVOS DE SEGURIDAD EN LA VÍA PUBLICA O LUGARES DE USO COMUN (CASETAS DE ACCESO, PLUMAS LEVADIZAS, REJAS MECANICAS O AUTOMATIZADAS)"
+   
+        }
+    ],
+    "tramites_OAP": [
+        {
+            "nombre": "Servicio de Agua Potable en Pipas (Por Escasez)",
+            "descripcion": "El usuario podrá comunicarse a los teléfonos del área de Transporte de Agua en Pipas, reportando la falta de agua potable de la red municipal en su domicilio, proporcionando información suficiente para generar un reporte por falta de agua, exponiendo de ser posible las razones que estén a sus alce y conocimiento. Una vez generado el reporte se asignara un folio de atención y seguimiento, el Organismo verificará el desabasto de agua con la Gerencia de Agua Potable de manera general con la calle y/o colonia, así se conocerán las causas que justifiquen el apoyo del servicio de transporte de agua potable en pipas, una vez que se corrobore se acudirá a la zona en contingencia para suministrar el vital líquido "
+   
+        },
+        {
+            "nombre": "Factibilidad Única de Servicios",
+            "descripcion": "Dictamen a través del cual el Organismo determinará la posibilidad de otorgar los servicios solicitados de agua potable y drenaje en cantidad y forma. La factibilidad precede para obras nuevas, conjuntos urbanos, lotificaciones en condominio y ampliaciones que soliciten los servicios; doméstico, comercial, industrial, mixto, aumento de densidad, fusión, subdivisión y cambios de uso de suelo"
+   
+        },
+        {
+            "nombre": "Desazolve y Reparación de Descarga Domiciliaria de Drenaje",
+            "descripcion": "TRÁMITE QUE SE SOLICITA CON LA FINALIDAD DE QUE EL PERSONAL DEL O.A.P.A.S. REHABILITE EL SERVICIO DE DRENAJE, PROPIEDAD DE LOS USUARIOS POR MEDIO DE HERRAMIENTA MANUAL DE DESAZOLVE, EL CUAL SE PUEDE VER AFECTADO POR RESIDUOS SÓLIDOS, RAÍCES Y MATERIALES CON VIDA ÚLTI CADUCA"
+   
+        },
+        {
+            "nombre": "Permiso de Distribución de Agua a través de Pipas",
+            "descripcion": "CONSISTE EN OTORGAR UN PERMISO DE DISTRIBUCIÓN DE AGUA POTABLE A TRAVES DE PIPAS, QUE AUTORIZA LA CARGA DE AGUA POTABLE DE LAS GARZAS DEL ORGANISMO OPERADOR, PARA SU DISTRIBUCIÓN Y VENTA EN EL TERRITORIO MUNICIPAL"
+   
+        },
+        {
+            "nombre": "Permiso de Descarga de Agua Residual",
+            "descripcion": "Es el trámite previsto en diversas disposiciones legales, mediante el cual la Administración Pública Municipal, través de su Organismo Operador del Servicio de Agua Potable y Saneamiento, verifica que el agua residual que vierten los usuarios No domésticos (giros industriales, comerciales y de servicios) a la infraestructura de drenaje municipal, no rebasen los lfmites máximos permisibles de contaminantes establecidos en la Normatividad aplicable"
+   
+        },
+        {
+            "nombre": "Reparación de Fugas de Agua Potable",
+            "descripcion": "Servicio que se presta para atender a los Usuarios que reportan fugas de agua en la Infraestructura Hidráulica que opera el Organismo, que son ocasionadas por el deterioro del material o por daños de terceros; (No aplica en fugas al interior del predio que se ubica después del medidor), Comprende en el caso de tomas domiciliarias, el cambio de material desde la red de distribución hasta la llave de banqueta o cuadro del medidor, y en el caso de una fuga de red, el cambio del tramo o piezas dañadas, hasta quedar restablecido el servicio de agua"
+   
+        },
+        {
+            "nombre": "Aclaraciones",
+            "descripcion": "Atención, asistencia y respuesta a peticiones de ajustes, por falta de toma de lectura."
+   
+        },
+        {
+            "nombre": "Autorización de Derivación",
+            "descripcion": "Solicitud de contratación e instalación de derivaciones de agua potable y drenaje, adosado a la toma principal cuando exista en el predio más de una vivienda o se requiera para un giro doméstico o no doméstico"
+   
+        },
+        {
+            "nombre": "Certificado de Pago de Derechos de Agua",
+            "descripcion": "Documento mediante el cual el Organismo de Agua Potable, Alcantarillado y Saneamiento del Municipio de Naucalpan de Juárez en el Estado de México, certifica que no existen adeudos por los servicios de agua potable, drenaje, tratamiento y conducción de aguas residuales"
+   
+        },
+        {
+            "nombre": "Contratación de Toma de Agua para Puestos Semi Fijos",
+            "descripcion": "Solicitud de instalación de servicios para puestos semi fijos"
+   
+        },
+        {
+            "nombre": "Contratación de Toma de Agua y/o Drenaje para Caseta de Vigilancia",
+            "descripcion": "Solicitud de Instalación de Servicios para Caseta de Vigilancia"
+   
+        },
+        {
+            "nombre": "Recepción de Pagos por Servicio",
+            "descripcion": "Trámite que realizan los usuarios ante el Organismo de Agua, a fin de pagar el servicio de agua potable, drenaje, tratamiento, así como derechos, productos, aprovechamientos y accesorios"
+   
+        },
+        {
+            "nombre": "Regularización de Toma de Agua Potable y Drenaje",
+            "descripcion": "Solicitud de Regularización de Servicios de Agua y Drenaje"
+   
+        },
+        {
+            "nombre": "Revisión Instalación y o Sustitución de Medidor",
+            "descripcion": "Solicitud que realiza la persona Física o Jurídica colectiva para la revisión, instalación y/o sustitución de los aparatos de medición del suministro de agua potable."
+   
+        },
+        {
+            "nombre": "Venta de Vales de Agua Potable para Concesionarios de Agua en Pipas",
+            "descripcion": "Proporcionar la venta de vales de agua potable a permisionarios que cumplan con la normatividad correspondiente y el pago de derechos"
+   
+        },
+        {
+            "nombre": "Venta de Vales de Agua Tratada en Planta Naucalli",
+            "descripcion": "Consiste en proporcionar el servicio de venta de vales de agua tratada a usuarios que la requieran"
+   
+        },
+        {
+            "nombre": "Convenio de Pago",
+            "descripcion": "Es aquel que se ofrece al contribuyente que no tiene la posibilidad de cubrir la contribución omitida y sus accesorios (agua potable, drenaje, multas, otros productos y aprovechamientos) en una sola exhibición, sin que dicho plazo exceda de treinta meses, siempre y cuando el usuario cubra el pago inicial del 20% del crédito fiscal a convenir y los requisitos expresados en líneas subsecuentes"
+   
+        },
+        {
+            "nombre": "Reubicación de Toma de Agua y/o Drenaje y/o Medidor",
+            "descripcion": "Es el trámite que realiza el propietario del inmueble, para la reubicación de los servicios de agua potable y/o medidor"
+   
+        },
+        {
+            "nombre": "Contratación de Toma de Agua y/o Drenaje para Casetas de Taxis y Combis",
+            "descripcion": "Solicitud de instalación de servicios para sitios de taxis y combis"
+   
+        }
+    ],
+    "tramites_NC": [
+        {
+            "nombre": "Solicitud de Créditos de Grupo Solidario Mujeres nuevo y renovación",
+            "descripcion": "Conjunto de personas con la voluntad de unirse de manera solidaria, para la obtención de un microcrédito"
+   
+        },
+        {
+            "nombre": "Solicitud de Crédito de Grupo Solidario nuevo y renovación",
+            "descripcion": "Conjunto de personas con la voluntad de unirse de manera solidaria, para la obtención de un microcrédito"
+   
+        },
+        {
+            "nombre": "Solicitud de Crédito de Microempresa establecida nueva y renovación",
+            "descripcion": "El establecimiento en un local o domicilio particular (que demuestre actividad empresaria! en su domicilio)"
+   
+        },
+        {
+            "nombre": "Reanudación de actividades de licencia de funcionamiento para Unidades Económicas",
+            "descripcion": "Acto administrativo donde una persona física o jurídica colectivas, decide reanudar actividades de la unidad económica, operando bajo las mismas condiciones en que fue entregada la licencia"
+   
+        },
+        {
+            "nombre": "Alta S.A.R.E. de licencia de Funcionamiento para Unidades Económicas",
+            "descripcion": "Acto administrativo donde una persona física o jur-ídica colectiva, realiza el trámite de apertura de licencia de funcionamiento para una unidad económica dentro del territorio del municipal, a través de la modalidad S.A.R.E. (Sistema de Apertura Rápida de Empresas)"
+   
+        },
+        {
+            "nombre": "Suspensión de Actividades de Licencia de Funcionamiento para Unidades Económicas",
+            "descripcion": "Acto administrativo donde una persona física o jurídica colectiva da aviso a la autor-idad del cierre temporal del establecimiento a través del trámite de suspensión de actividades"
+   
+        },
+        {
+            "nombre": "Revalidación de licencia de Funcionamiento para unidades Económicas",
+            "descripcion": "Acto administrativo donde una persona física o jurídica colectiva, realiza el trámite de revalidación de licencia de funcionamiento que ya existe y que no han variado las condiciones de cómo fue otorgada"
+   
+        },
+        {
+            "nombre": "Alta de Licencia de Funcionamiento para Unidades Económicas",
+            "descripcion": "Acto administrativo donde una persona física o jurídica colectiva, realiza el trámite de apertura de una unidad económica dentro del territorio del municipal y obtiene licencia de funcionamiento, para la operación legal de la misma"
+   
+        },
+        {
+            "nombre": "Cambio de Razón Social o Fusión de Licencia de Funcionamiento para Unidades Económicas",
+            "descripcion": "Acto administrativo donde se da aviso a la autoridad de la cesión de derechos o fusión de una unidad económica, donde el cedente es una persona jurídica colectiva y donde no ha variado la actividad de unidad económica"
+   
+        },
+        {
+            "nombre": "Traspaso de Licencia de Funcionamiento para Unidades Económicas",
+            "descripcion": "Acto administrativo donde se traspasó la licencia de funcionamiento a través de una cesión de derechos entre dos personas físicas y donde las condiciones señaladas en la licencia de funcionamiento original no han variado"
+   
+        },
+        {
+            "nombre": "Baja de Licencia de Funcionamiento para Unidades Económicas",
+            "descripcion": "Acto administrativo donde una persona física o jurídica colectiva da aviso a la autoridad del cierre de la unidad económica a través del trámite de baja"
+   
+        },
+        {
+            "nombre": "Dictamen de Giro para Unidades Económicas",
+            "descripcion": "Acto administrativo donde una persona física o jurídica colectiva solicita el dictamen de giro para unidades económicas cuya actividad sea la venta y/o distribución de bebidas alcohólicas en envase abierto y/o al copeo para su consumo inmediato, rastros y unidades económicas para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas, pi-evio a la emisión de la licencia de funcionamiento"
+   
+        },
+        {
+            "nombre": "Modificación de actividad o actividades Económicas o de superficie de Licencia de Funcionamiento para Unidades Económicas",
+            "descripcion": "Acto administrativo donde una persona física o jurídica solicita la modificación de actividad o superficie en su licencia de funcionamiento"
+   
+        }
+    ],
+    "clientes": [
+        {
+            "nombre": "israel pérez lara",
+            "telefono":5534613935,
+            "email": "israelpl939@gmail.com",
+            "area": "Desarrollo Urbano"
+        },
+        {
+            "nombre": "<ismael>",
+            "telefono":5534613935,
+            "email": "<EMAIL>",
+            "area": "Desarrollo Urbano"
+        }
+    ]
+}
